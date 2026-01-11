@@ -123,7 +123,7 @@ def analyze_territory_metrics(df, owner_column='current_owner', include_geograph
                 metric_dict['Primary Region'] = primary_region
                 metric_dict['Region Concentration %'] = region_pct
 
-    metrics.append(metric_dict)
+        metrics.append(metric_dict)
 
     metrics_df = pd.DataFrame(metrics)
 
@@ -691,7 +691,13 @@ elif page == "Implementation":
             st.metric("Prospects Moved", len(prospect_changes))
 
         with col4:
-            total_value = implementation_df['account_value'].sum()
+            # Check for value column (could be 'account_value' or 'estimated_annual_value')
+            if 'account_value' in implementation_df.columns:
+                total_value = implementation_df['account_value'].sum()
+            elif 'estimated_annual_value' in implementation_df.columns:
+                total_value = implementation_df['estimated_annual_value'].sum()
+            else:
+                total_value = 0
             st.metric("Total Value Moving", f"${total_value/1e6:.1f}M")
 
     st.markdown("---")
