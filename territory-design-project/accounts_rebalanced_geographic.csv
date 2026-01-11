@@ -3,47 +3,47 @@ Acme Corporation,Enterprise,Rep_1,450000,Customer,San Diego,CA,92101,32.7157,-11
 TechVision Inc,Large,Rep_1,280000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_1
 GlobalSoft Solutions,Enterprise,Rep_1,500000,Customer,Detroit,MI,48201,42.3314,-83.0458,Midwest,Rep_1
 DataSync Systems,Large,Rep_1,320000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_1
-CloudFirst Technologies,Enterprise,Rep_1,475000,Prospect,Atlanta,GA,30303,33.749,-84.388,South,Rep_8
+CloudFirst Technologies,Enterprise,Rep_1,475000,Prospect,Atlanta,GA,30303,33.749,-84.388,South,Rep_4
 InnovateCorp,Large,Rep_1,295000,Customer,Salt Lake City,UT,84101,40.7608,-111.891,Mountain,Rep_1
 NextGen Analytics,Enterprise,Rep_1,490000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_1
-Quantum Industries,Large,Rep_1,310000,Prospect,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_8
+Quantum Industries,Large,Rep_1,310000,Prospect,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_3
 AlphaWave Systems,Enterprise,Rep_1,460000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_1
 BetaTech Solutions,Large,Rep_1,275000,Customer,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_1
 CoreLogic Enterprises,Enterprise,Rep_1,485000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_1
-Delta Innovations,Large,Rep_1,305000,Prospect,Austin,TX,78701,30.2672,-97.7431,South,Rep_6
+Delta Innovations,Large,Rep_1,305000,Prospect,Austin,TX,78701,30.2672,-97.7431,South,Rep_4
 Epsilon Technologies,Enterprise,Rep_1,470000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_1
 Zenith Solutions,Large,Rep_1,290000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_1
 Pinnacle Systems,Enterprise,Rep_1,495000,Customer,Detroit,MI,48201,42.3314,-83.0458,Midwest,Rep_1
 Vertex Analytics,Large,Rep_1,315000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_1
-Horizon Tech Group,Enterprise,Rep_1,455000,Prospect,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_4
+Horizon Tech Group,Enterprise,Rep_1,455000,Prospect,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_7
 Nexus Corporation,Large,Rep_1,285000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_1
 Summit Solutions,Enterprise,Rep_1,480000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_1
 Apex Innovations,Large,Rep_1,300000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_1
 Titan Enterprises,Enterprise,Rep_2,465000,Customer,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_2
 Omega Systems,Large,Rep_2,325000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_2
-Vanguard Tech,Enterprise,Rep_2,440000,Prospect,Nashville,TN,37201,36.1627,-86.7816,South,Rep_8
+Vanguard Tech,Enterprise,Rep_2,440000,Prospect,Nashville,TN,37201,36.1627,-86.7816,South,Rep_6
 Precision Analytics,Large,Rep_2,270000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_2
 Stellar Solutions,Enterprise,Rep_2,455000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_2
 Matrix Industries,Large,Rep_2,295000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_2
 Fusion Technologies,Enterprise,Rep_2,475000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_2
-Prism Systems,Large,Rep_2,310000,Prospect,San Diego,CA,92101,32.7157,-117.1611,West,Rep_4
+Prism Systems,Large,Rep_2,310000,Prospect,San Diego,CA,92101,32.7157,-117.1611,West,Rep_5
 Catalyst Corp,Enterprise,Rep_2,450000,Customer,Philadelphia,PA,19102,39.9526,-75.1652,Northeast,Rep_2
 Momentum Tech,Large,Rep_2,280000,Customer,Philadelphia,PA,19102,39.9526,-75.1652,Northeast,Rep_2
 Velocity Solutions,Enterprise,Rep_2,490000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_2
 Paradigm Group,Large,Rep_2,305000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_2
-Synergy Innovations,Enterprise,Rep_2,460000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_6
+Synergy Innovations,Enterprise,Rep_2,460000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_7
 Convergence Systems,Large,Rep_2,290000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_2
 Evolution Tech,Enterprise,Rep_2,470000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_2
 Brilliant Solutions,Medium,Rep_3,85000,Customer,Baltimore,MD,21201,39.2904,-76.6122,Northeast,Rep_3
-Dynamic Ventures,Medium,Rep_3,92000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_6
+Dynamic Ventures,Medium,Rep_3,92000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_7
 Spectrum Analytics,Medium,Rep_3,78000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_3
 Meridian Tech,Medium,Rep_3,88000,Customer,Philadelphia,PA,19102,39.9526,-75.1652,Northeast,Rep_3
 Crest Systems,Medium,Rep_3,95000,Customer,Miami,FL,33131,25.7617,-80.1918,South,Rep_3
-Frontier Solutions,Medium,Rep_3,82000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_4
+Frontier Solutions,Medium,Rep_3,82000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_5
 Pioneer Industries,Medium,Rep_3,90000,Customer,San Diego,CA,92101,32.7157,-117.1611,West,Rep_3
 Horizon Ventures,Medium,Rep_3,76000,Customer,Columbus,OH,43215,39.9612,-82.9988,Midwest,Rep_3
 Compass Tech,Medium,Rep_3,94000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_3
-Beacon Systems,Medium,Rep_3,80000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_6
+Beacon Systems,Medium,Rep_3,80000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_5
 Gateway Solutions,Medium,Rep_3,87000,Customer,Portland,OR,97201,45.5152,-122.6784,West,Rep_3
 Bridge Technologies,Medium,Rep_3,91000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_3
 Portal Innovations,Medium,Rep_3,79000,Customer,Nashville,TN,37201,36.1627,-86.7816,South,Rep_3
@@ -51,28 +51,28 @@ Pathway Corp,Medium,Rep_3,86000,Prospect,Chicago,IL,60601,41.8781,-87.6298,Midwe
 Navigator Systems,Medium,Rep_3,93000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_3
 Milestone Solutions,Medium,Rep_3,81000,Customer,Miami,FL,33131,25.7617,-80.1918,South,Rep_3
 Keystone Tech,Medium,Rep_3,89000,Customer,Nashville,TN,37201,36.1627,-86.7816,South,Rep_3
-Foundation Group,Medium,Rep_3,84000,Prospect,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_3
+Foundation Group,Medium,Rep_3,84000,Prospect,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_7
 Cornerstone Systems,Medium,Rep_3,96000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_3
 Blueprint Analytics,Medium,Rep_3,77000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_3
 Framework Solutions,Medium,Rep_3,83000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_3
 Structure Tech,Medium,Rep_3,90000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_3
-Baseline Systems,Medium,Rep_3,75000,Prospect,New York,NY,10001,40.7128,-74.006,Northeast,Rep_8
+Baseline Systems,Medium,Rep_3,75000,Prospect,New York,NY,10001,40.7128,-74.006,Northeast,Rep_7
 Platform Innovations,Medium,Rep_3,88000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_3
 Axis Corporation,Medium,Rep_3,92000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_3
 SmartTech Solutions,Small,Rep_4,25000,Customer,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_4
-QuickServe Systems,Small,Rep_4,18000,Prospect,Atlanta,GA,30303,33.749,-84.388,South,Rep_8
+QuickServe Systems,Small,Rep_4,18000,Prospect,Atlanta,GA,30303,33.749,-84.388,South,Rep_4
 MicroData Inc,Small,Rep_4,22000,Customer,Detroit,MI,48201,42.3314,-83.0458,Midwest,Rep_4
 CompactTech,Small,Rep_4,28000,Customer,Cleveland,OH,44101,41.4993,-81.6944,Midwest,Rep_4
 AgileWorks,Small,Rep_4,20000,Customer,Miami,FL,33131,25.7617,-80.1918,South,Rep_4
-SwiftSolutions,Small,Rep_4,24000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_3
+SwiftSolutions,Small,Rep_4,24000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_4
 NimbleTech,Small,Rep_4,19000,Customer,Minneapolis,MN,55401,44.9778,-93.265,Midwest,Rep_4
 RapidSystems,Small,Rep_4,26000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_4
 FlexiCorp,Small,Rep_4,21000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_4
-LeanTech Solutions,Small,Rep_4,23000,Prospect,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_6
+LeanTech Solutions,Small,Rep_4,23000,Prospect,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_3
 EfficientSystems,Small,Rep_4,27000,Customer,Detroit,MI,48201,42.3314,-83.0458,Midwest,Rep_4
 StreamlineTech,Small,Rep_4,17000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_4
 OptimizeWorks,Small,Rep_4,25000,Customer,Cleveland,OH,44101,41.4993,-81.6944,Midwest,Rep_4
-SpeedySolutions,Small,Rep_4,20000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_6
+SpeedySolutions,Small,Rep_4,20000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_4
 SimpleTech Inc,Small,Rep_4,22000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_4
 QuickWin Systems,Small,Rep_4,24000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_4
 FastTrack Solutions,Small,Rep_4,19000,Customer,Miami,FL,33131,25.7617,-80.1918,South,Rep_4
@@ -81,77 +81,77 @@ CompactSolutions,Small,Rep_4,21000,Customer,Nashville,TN,37201,36.1627,-86.7816,
 MiniSystems Corp,Small,Rep_4,23000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_4
 BriefTech,Small,Rep_4,18000,Customer,Seattle,WA,98101,47.6062,-122.3321,West,Rep_4
 ConciseSolutions,Small,Rep_4,25000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_4
-TerseTech,Small,Rep_4,20000,Prospect,Nashville,TN,37201,36.1627,-86.7816,South,Rep_3
+TerseTech,Small,Rep_4,20000,Prospect,Nashville,TN,37201,36.1627,-86.7816,South,Rep_4
 PithySystems,Small,Rep_4,22000,Customer,Philadelphia,PA,19102,39.9526,-75.1652,Northeast,Rep_4
 SnappyTech,Small,Rep_4,24000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_4
 CrispSolutions,Small,Rep_4,19000,Customer,Houston,TX,77002,29.7604,-95.3698,South,Rep_4
-ShortCut Systems,Small,Rep_4,27000,Prospect,Baltimore,MD,21201,39.2904,-76.6122,Northeast,Rep_3
+ShortCut Systems,Small,Rep_4,27000,Prospect,Baltimore,MD,21201,39.2904,-76.6122,Northeast,Rep_7
 QuickByte Tech,Small,Rep_4,21000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_4
 InstantSolutions,Small,Rep_4,23000,Customer,Minneapolis,MN,55401,44.9778,-93.265,Midwest,Rep_4
 PromptTech,Small,Rep_4,18000,Customer,Minneapolis,MN,55401,44.9778,-93.265,Midwest,Rep_4
 ReadySystems,Small,Rep_4,25000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_4
-HandyTech,Small,Rep_4,20000,Prospect,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_4
+HandyTech,Small,Rep_4,20000,Prospect,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_8
 EasySolutions,Small,Rep_4,22000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_4
 BreezyTech,Small,Rep_4,24000,Customer,Dallas,TX,75201,32.7767,-96.797,South,Rep_4
 LightSystems,Small,Rep_4,19000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_4
 AirySolutions,Small,Rep_4,26000,Customer,Portland,OR,97201,45.5152,-122.6784,West,Rep_4
 Elite Enterprises,Large,Rep_5,330000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_5
-Premier Systems,Large,Rep_5,285000,Prospect,San Diego,CA,92101,32.7157,-117.1611,West,Rep_4
+Premier Systems,Large,Rep_5,285000,Prospect,San Diego,CA,92101,32.7157,-117.1611,West,Rep_3
 Superior Tech,Large,Rep_5,315000,Customer,Portland,OR,97201,45.5152,-122.6784,West,Rep_5
 Excellence Corp,Large,Rep_5,295000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_5
 Prestige Solutions,Large,Rep_5,340000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_5
 Quality Innovations,Large,Rep_5,275000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_5
-Prime Technologies,Large,Rep_5,325000,Prospect,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_6
+Prime Technologies,Large,Rep_5,325000,Prospect,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_3
 Distinguished Systems,Large,Rep_5,290000,Customer,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_5
 Notable Solutions,Large,Rep_5,310000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_5
 Eminent Tech,Large,Rep_5,305000,Customer,Seattle,WA,98101,47.6062,-122.3321,West,Rep_5
 Renowned Corp,Large,Rep_5,335000,Customer,Cleveland,OH,44101,41.4993,-81.6944,Midwest,Rep_5
-Esteemed Systems,Large,Rep_5,280000,Prospect,Dallas,TX,75201,32.7767,-96.797,South,Rep_8
+Esteemed Systems,Large,Rep_5,280000,Prospect,Dallas,TX,75201,32.7767,-96.797,South,Rep_4
 Respected Solutions,Large,Rep_5,320000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_5
 Acclaimed Tech,Large,Rep_5,300000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_5
 Celebrated Innovations,Large,Rep_5,315000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_5
 Micro Solutions Ltd,Small,Rep_6,16000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_6
-Tiny Tech Corp,Small,Rep_6,14000,Prospect,Austin,TX,78701,30.2672,-97.7431,South,Rep_3
+Tiny Tech Corp,Small,Rep_6,14000,Prospect,Austin,TX,78701,30.2672,-97.7431,South,Rep_6
 Mini Innovations,Small,Rep_6,19000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_6
 Petite Systems,Small,Rep_6,15000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_6
 Little Tech Co,Small,Rep_6,17000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_6
-Modest Solutions,Small,Rep_6,13000,Prospect,Seattle,WA,98101,47.6062,-122.3321,West,Rep_8
+Modest Solutions,Small,Rep_6,13000,Prospect,Seattle,WA,98101,47.6062,-122.3321,West,Rep_3
 Humble Tech,Small,Rep_6,18000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_6
 Minor Systems,Small,Rep_6,16000,Customer,San Diego,CA,92101,32.7157,-117.1611,West,Rep_6
 Lesser Innovations,Small,Rep_6,14000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_6
-Junior Tech,Small,Rep_6,20000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_4
+Junior Tech,Small,Rep_6,20000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_7
 Startup Solutions,Small,Rep_6,15000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_6
 Emerging Systems,Small,Rep_6,17000,Customer,Minneapolis,MN,55401,44.9778,-93.265,Midwest,Rep_6
 Nascent Tech,Small,Rep_6,12000,Customer,Portland,OR,97201,45.5152,-122.6784,West,Rep_6
-Budding Innovations,Small,Rep_6,19000,Prospect,Detroit,MI,48201,42.3314,-83.0458,Midwest,Rep_3
+Budding Innovations,Small,Rep_6,19000,Prospect,Detroit,MI,48201,42.3314,-83.0458,Midwest,Rep_8
 Fledgling Corp,Small,Rep_6,16000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_6
 Growing Solutions,Small,Rep_6,14000,Customer,Seattle,WA,98101,47.6062,-122.3321,West,Rep_6
 Developing Tech,Small,Rep_6,18000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_6
-Advancing Systems,Small,Rep_6,15000,Prospect,Phoenix,AZ,85004,33.4484,-112.074,Mountain,Rep_4
+Advancing Systems,Small,Rep_6,15000,Prospect,Phoenix,AZ,85004,33.4484,-112.074,Mountain,Rep_6
 Progressing Innovations,Small,Rep_6,17000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_6
 Rising Tech,Small,Rep_6,13000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_6
 Ascending Solutions,Small,Rep_6,16000,Customer,San Diego,CA,92101,32.7157,-117.1611,West,Rep_6
 Climbing Systems,Small,Rep_6,19000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_6
-Improving Tech,Small,Rep_6,14000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_8
+Improving Tech,Small,Rep_6,14000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_3
 Enhancing Solutions,Small,Rep_6,15000,Customer,Cleveland,OH,44101,41.4993,-81.6944,Midwest,Rep_6
 Upgrading Corp,Small,Rep_6,18000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_6
 Boosting Systems,Small,Rep_6,16000,Customer,Phoenix,AZ,85004,33.4484,-112.074,Mountain,Rep_6
 Elevating Tech,Small,Rep_6,12000,Customer,Dallas,TX,75201,32.7767,-96.797,South,Rep_6
-Lifting Solutions,Small,Rep_6,17000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_6
+Lifting Solutions,Small,Rep_6,17000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_4
 Raising Innovations,Small,Rep_6,14000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_6
 Heightening Systems,Small,Rep_6,19000,Customer,Philadelphia,PA,19102,39.9526,-75.1652,Northeast,Rep_6
 Amplifying Tech,Small,Rep_6,15000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_6
 Magnifying Solutions,Small,Rep_6,16000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_6
-Expanding Corp,Small,Rep_6,13000,Prospect,Cleveland,OH,44101,41.4993,-81.6944,Midwest,Rep_4
+Expanding Corp,Small,Rep_6,13000,Prospect,Cleveland,OH,44101,41.4993,-81.6944,Midwest,Rep_8
 Broadening Systems,Small,Rep_6,18000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_6
 Widening Tech,Small,Rep_6,14000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_6
 Stretching Solutions,Small,Rep_6,17000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_6
 Extending Innovations,Small,Rep_6,15000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_6
-Lengthening Corp,Small,Rep_6,12000,Prospect,Portland,OR,97201,45.5152,-122.6784,West,Rep_6
+Lengthening Corp,Small,Rep_6,12000,Prospect,Portland,OR,97201,45.5152,-122.6784,West,Rep_3
 Prolonging Systems,Small,Rep_6,19000,Customer,Seattle,WA,98101,47.6062,-122.3321,West,Rep_6
 Perpetuating Tech,Small,Rep_6,16000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_6
 MidRange Technologies,Medium,Rep_7,105000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_7
-Moderate Systems,Medium,Rep_7,98000,Prospect,Atlanta,GA,30303,33.749,-84.388,South,Rep_3
+Moderate Systems,Medium,Rep_7,98000,Prospect,Atlanta,GA,30303,33.749,-84.388,South,Rep_4
 Average Solutions,Medium,Rep_7,110000,Customer,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_7
 Balanced Tech,Medium,Rep_7,95000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_7
 Central Innovations,Medium,Rep_7,102000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_7
@@ -159,7 +159,7 @@ Middle Corp,Medium,Rep_7,108000,Prospect,Houston,TX,77002,29.7604,-95.3698,South
 Intermediate Systems,Medium,Rep_7,99000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_7
 Standard Solutions,Medium,Rep_7,106000,Customer,Phoenix,AZ,85004,33.4484,-112.074,Mountain,Rep_7
 Regular Tech,Medium,Rep_7,97000,Customer,Portland,OR,97201,45.5152,-122.6784,West,Rep_7
-Typical Innovations,Medium,Rep_7,103000,Prospect,New York,NY,10001,40.7128,-74.006,Northeast,Rep_3
+Typical Innovations,Medium,Rep_7,103000,Prospect,New York,NY,10001,40.7128,-74.006,Northeast,Rep_7
 Normal Corp,Medium,Rep_7,109000,Customer,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_7
 Conventional Systems,Medium,Rep_7,96000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_7
 Traditional Solutions,Medium,Rep_7,104000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_7
@@ -167,41 +167,41 @@ Ordinary Tech,Medium,Rep_7,100000,Prospect,Cleveland,OH,44101,41.4993,-81.6944,M
 Common Innovations,Medium,Rep_7,107000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_7
 Usual Systems,Medium,Rep_7,98000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_7
 Customary Solutions,Medium,Rep_7,105000,Customer,Atlanta,GA,30303,33.749,-84.388,South,Rep_7
-Routine Tech,Medium,Rep_7,101000,Prospect,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_6
+Routine Tech,Medium,Rep_7,101000,Prospect,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_8
 Established Corp,Medium,Rep_7,110000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_7
 Settled Systems,Medium,Rep_7,94000,Customer,Portland,OR,97201,45.5152,-122.6784,West,Rep_7
 Fixed Solutions,Medium,Rep_7,102000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_7
 Stable Tech,Medium,Rep_7,108000,Customer,New York,NY,10001,40.7128,-74.006,Northeast,Rep_7
-Steady Innovations,Medium,Rep_7,96000,Prospect,Austin,TX,78701,30.2672,-97.7431,South,Rep_4
+Steady Innovations,Medium,Rep_7,96000,Prospect,Austin,TX,78701,30.2672,-97.7431,South,Rep_6
 Constant Corp,Medium,Rep_7,104000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_7
 Consistent Systems,Medium,Rep_7,99000,Customer,Seattle,WA,98101,47.6062,-122.3321,West,Rep_7
 Reliable Solutions,Medium,Rep_7,106000,Customer,San Diego,CA,92101,32.7157,-117.1611,West,Rep_7
 Dependable Tech,Medium,Rep_7,97000,Customer,Phoenix,AZ,85004,33.4484,-112.074,Mountain,Rep_7
-Trustworthy Innovations,Medium,Rep_7,103000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_4
+Trustworthy Innovations,Medium,Rep_7,103000,Prospect,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_6
 Faithful Corp,Medium,Rep_7,109000,Customer,Dallas,TX,75201,32.7767,-96.797,South,Rep_7
 Loyal Systems,Medium,Rep_7,95000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_7
 Budget Tech Solutions,Small,Rep_8,11000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_8
-Economy Systems,Small,Rep_8,10000,Prospect,New York,NY,10001,40.7128,-74.006,Northeast,Rep_6
+Economy Systems,Small,Rep_8,10000,Prospect,New York,NY,10001,40.7128,-74.006,Northeast,Rep_7
 Discount Innovations,Small,Rep_8,13000,Customer,Baltimore,MD,21201,39.2904,-76.6122,Northeast,Rep_8
 Thrift Tech Corp,Small,Rep_8,12000,Customer,Charlotte,NC,28202,35.2271,-80.8431,South,Rep_8
 Value Solutions Ltd,Small,Rep_8,14000,Customer,San Jose,CA,95113,37.3382,-121.8863,West,Rep_8
-Bargain Systems,Small,Rep_8,10000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_8
+Bargain Systems,Small,Rep_8,10000,Prospect,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_5
 Affordable Tech,Small,Rep_8,15000,Customer,San Francisco,CA,94102,37.7749,-122.4194,West,Rep_8
 Economical Solutions,Small,Rep_8,11000,Customer,Houston,TX,77002,29.7604,-95.3698,South,Rep_8
 Frugal Innovations,Small,Rep_8,12000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_8
-Prudent Systems,Small,Rep_8,13000,Prospect,Seattle,WA,98101,47.6062,-122.3321,West,Rep_3
+Prudent Systems,Small,Rep_8,13000,Prospect,Seattle,WA,98101,47.6062,-122.3321,West,Rep_5
 Sensible Tech,Small,Rep_8,14000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_8
 Practical Solutions,Small,Rep_8,10000,Customer,Washington,DC,20001,38.9072,-77.0369,Northeast,Rep_8
 Reasonable Corp,Small,Rep_8,15000,Customer,Seattle,WA,98101,47.6062,-122.3321,West,Rep_8
-Rational Systems,Small,Rep_8,11000,Prospect,Nashville,TN,37201,36.1627,-86.7816,South,Rep_4
+Rational Systems,Small,Rep_8,11000,Prospect,Nashville,TN,37201,36.1627,-86.7816,South,Rep_6
 Logical Tech,Small,Rep_8,12000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_8
 Sound Solutions,Small,Rep_8,13000,Customer,Detroit,MI,48201,42.3314,-83.0458,Midwest,Rep_8
 Smart Innovations,Small,Rep_8,14000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_8
-Wise Systems,Small,Rep_8,10000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_3
+Wise Systems,Small,Rep_8,10000,Prospect,Boston,MA,2101,42.3601,-71.0589,Northeast,Rep_2
 Clever Tech,Small,Rep_8,15000,Customer,Los Angeles,CA,90012,34.0522,-118.2437,West,Rep_8
 Bright Solutions,Small,Rep_8,11000,Customer,Denver,CO,80202,39.7392,-104.9903,Mountain,Rep_8
 Sharp Corp,Small,Rep_8,12000,Customer,Chicago,IL,60601,41.8781,-87.6298,Midwest,Rep_8
 Keen Systems,Small,Rep_8,13000,Customer,Austin,TX,78701,30.2672,-97.7431,South,Rep_8
-Alert Tech,Small,Rep_8,14000,Prospect,San Jose,CA,95113,37.3382,-121.8863,West,Rep_6
+Alert Tech,Small,Rep_8,14000,Prospect,San Jose,CA,95113,37.3382,-121.8863,West,Rep_5
 Aware Solutions,Small,Rep_8,10000,Customer,Philadelphia,PA,19102,39.9526,-75.1652,Northeast,Rep_8
 Conscious Innovations,Small,Rep_8,15000,Customer,Miami,FL,33131,25.7617,-80.1918,South,Rep_8

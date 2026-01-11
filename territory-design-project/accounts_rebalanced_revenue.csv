@@ -1,0 +1,207 @@
+account_name,account_size,current_owner,estimated_annual_value,customer_status,new_owner
+Acme Corporation,Enterprise,Rep_1,450000,Customer,Rep_1
+TechVision Inc,Large,Rep_1,280000,Customer,Rep_1
+GlobalSoft Solutions,Enterprise,Rep_1,500000,Customer,Rep_1
+DataSync Systems,Large,Rep_1,320000,Customer,Rep_1
+CloudFirst Technologies,Enterprise,Rep_1,475000,Prospect,Rep_8
+InnovateCorp,Large,Rep_1,295000,Customer,Rep_1
+NextGen Analytics,Enterprise,Rep_1,490000,Customer,Rep_1
+Quantum Industries,Large,Rep_1,310000,Prospect,Rep_8
+AlphaWave Systems,Enterprise,Rep_1,460000,Customer,Rep_1
+BetaTech Solutions,Large,Rep_1,275000,Customer,Rep_1
+CoreLogic Enterprises,Enterprise,Rep_1,485000,Customer,Rep_1
+Delta Innovations,Large,Rep_1,305000,Prospect,Rep_6
+Epsilon Technologies,Enterprise,Rep_1,470000,Customer,Rep_1
+Zenith Solutions,Large,Rep_1,290000,Customer,Rep_1
+Pinnacle Systems,Enterprise,Rep_1,495000,Customer,Rep_1
+Vertex Analytics,Large,Rep_1,315000,Customer,Rep_1
+Horizon Tech Group,Enterprise,Rep_1,455000,Prospect,Rep_4
+Nexus Corporation,Large,Rep_1,285000,Customer,Rep_1
+Summit Solutions,Enterprise,Rep_1,480000,Customer,Rep_1
+Apex Innovations,Large,Rep_1,300000,Customer,Rep_1
+Titan Enterprises,Enterprise,Rep_2,465000,Customer,Rep_2
+Omega Systems,Large,Rep_2,325000,Customer,Rep_2
+Vanguard Tech,Enterprise,Rep_2,440000,Prospect,Rep_8
+Precision Analytics,Large,Rep_2,270000,Customer,Rep_2
+Stellar Solutions,Enterprise,Rep_2,455000,Customer,Rep_2
+Matrix Industries,Large,Rep_2,295000,Customer,Rep_2
+Fusion Technologies,Enterprise,Rep_2,475000,Customer,Rep_2
+Prism Systems,Large,Rep_2,310000,Prospect,Rep_4
+Catalyst Corp,Enterprise,Rep_2,450000,Customer,Rep_2
+Momentum Tech,Large,Rep_2,280000,Customer,Rep_2
+Velocity Solutions,Enterprise,Rep_2,490000,Customer,Rep_2
+Paradigm Group,Large,Rep_2,305000,Customer,Rep_2
+Synergy Innovations,Enterprise,Rep_2,460000,Prospect,Rep_6
+Convergence Systems,Large,Rep_2,290000,Customer,Rep_2
+Evolution Tech,Enterprise,Rep_2,470000,Customer,Rep_2
+Brilliant Solutions,Medium,Rep_3,85000,Customer,Rep_3
+Dynamic Ventures,Medium,Rep_3,92000,Prospect,Rep_6
+Spectrum Analytics,Medium,Rep_3,78000,Customer,Rep_3
+Meridian Tech,Medium,Rep_3,88000,Customer,Rep_3
+Crest Systems,Medium,Rep_3,95000,Customer,Rep_3
+Frontier Solutions,Medium,Rep_3,82000,Prospect,Rep_4
+Pioneer Industries,Medium,Rep_3,90000,Customer,Rep_3
+Horizon Ventures,Medium,Rep_3,76000,Customer,Rep_3
+Compass Tech,Medium,Rep_3,94000,Customer,Rep_3
+Beacon Systems,Medium,Rep_3,80000,Prospect,Rep_6
+Gateway Solutions,Medium,Rep_3,87000,Customer,Rep_3
+Bridge Technologies,Medium,Rep_3,91000,Customer,Rep_3
+Portal Innovations,Medium,Rep_3,79000,Customer,Rep_3
+Pathway Corp,Medium,Rep_3,86000,Prospect,Rep_8
+Navigator Systems,Medium,Rep_3,93000,Customer,Rep_3
+Milestone Solutions,Medium,Rep_3,81000,Customer,Rep_3
+Keystone Tech,Medium,Rep_3,89000,Customer,Rep_3
+Foundation Group,Medium,Rep_3,84000,Prospect,Rep_3
+Cornerstone Systems,Medium,Rep_3,96000,Customer,Rep_3
+Blueprint Analytics,Medium,Rep_3,77000,Customer,Rep_3
+Framework Solutions,Medium,Rep_3,83000,Customer,Rep_3
+Structure Tech,Medium,Rep_3,90000,Customer,Rep_3
+Baseline Systems,Medium,Rep_3,75000,Prospect,Rep_8
+Platform Innovations,Medium,Rep_3,88000,Customer,Rep_3
+Axis Corporation,Medium,Rep_3,92000,Customer,Rep_3
+SmartTech Solutions,Small,Rep_4,25000,Customer,Rep_4
+QuickServe Systems,Small,Rep_4,18000,Prospect,Rep_8
+MicroData Inc,Small,Rep_4,22000,Customer,Rep_4
+CompactTech,Small,Rep_4,28000,Customer,Rep_4
+AgileWorks,Small,Rep_4,20000,Customer,Rep_4
+SwiftSolutions,Small,Rep_4,24000,Prospect,Rep_3
+NimbleTech,Small,Rep_4,19000,Customer,Rep_4
+RapidSystems,Small,Rep_4,26000,Customer,Rep_4
+FlexiCorp,Small,Rep_4,21000,Customer,Rep_4
+LeanTech Solutions,Small,Rep_4,23000,Prospect,Rep_6
+EfficientSystems,Small,Rep_4,27000,Customer,Rep_4
+StreamlineTech,Small,Rep_4,17000,Customer,Rep_4
+OptimizeWorks,Small,Rep_4,25000,Customer,Rep_4
+SpeedySolutions,Small,Rep_4,20000,Prospect,Rep_6
+SimpleTech Inc,Small,Rep_4,22000,Customer,Rep_4
+QuickWin Systems,Small,Rep_4,24000,Customer,Rep_4
+FastTrack Solutions,Small,Rep_4,19000,Customer,Rep_4
+DirectTech,Small,Rep_4,26000,Prospect,Rep_4
+CompactSolutions,Small,Rep_4,21000,Customer,Rep_4
+MiniSystems Corp,Small,Rep_4,23000,Customer,Rep_4
+BriefTech,Small,Rep_4,18000,Customer,Rep_4
+ConciseSolutions,Small,Rep_4,25000,Customer,Rep_4
+TerseTech,Small,Rep_4,20000,Prospect,Rep_3
+PithySystems,Small,Rep_4,22000,Customer,Rep_4
+SnappyTech,Small,Rep_4,24000,Customer,Rep_4
+CrispSolutions,Small,Rep_4,19000,Customer,Rep_4
+ShortCut Systems,Small,Rep_4,27000,Prospect,Rep_3
+QuickByte Tech,Small,Rep_4,21000,Customer,Rep_4
+InstantSolutions,Small,Rep_4,23000,Customer,Rep_4
+PromptTech,Small,Rep_4,18000,Customer,Rep_4
+ReadySystems,Small,Rep_4,25000,Customer,Rep_4
+HandyTech,Small,Rep_4,20000,Prospect,Rep_4
+EasySolutions,Small,Rep_4,22000,Customer,Rep_4
+BreezyTech,Small,Rep_4,24000,Customer,Rep_4
+LightSystems,Small,Rep_4,19000,Customer,Rep_4
+AirySolutions,Small,Rep_4,26000,Customer,Rep_4
+Elite Enterprises,Large,Rep_5,330000,Customer,Rep_5
+Premier Systems,Large,Rep_5,285000,Prospect,Rep_4
+Superior Tech,Large,Rep_5,315000,Customer,Rep_5
+Excellence Corp,Large,Rep_5,295000,Customer,Rep_5
+Prestige Solutions,Large,Rep_5,340000,Customer,Rep_5
+Quality Innovations,Large,Rep_5,275000,Customer,Rep_5
+Prime Technologies,Large,Rep_5,325000,Prospect,Rep_6
+Distinguished Systems,Large,Rep_5,290000,Customer,Rep_5
+Notable Solutions,Large,Rep_5,310000,Customer,Rep_5
+Eminent Tech,Large,Rep_5,305000,Customer,Rep_5
+Renowned Corp,Large,Rep_5,335000,Customer,Rep_5
+Esteemed Systems,Large,Rep_5,280000,Prospect,Rep_8
+Respected Solutions,Large,Rep_5,320000,Customer,Rep_5
+Acclaimed Tech,Large,Rep_5,300000,Customer,Rep_5
+Celebrated Innovations,Large,Rep_5,315000,Customer,Rep_5
+Micro Solutions Ltd,Small,Rep_6,16000,Customer,Rep_6
+Tiny Tech Corp,Small,Rep_6,14000,Prospect,Rep_3
+Mini Innovations,Small,Rep_6,19000,Customer,Rep_6
+Petite Systems,Small,Rep_6,15000,Customer,Rep_6
+Little Tech Co,Small,Rep_6,17000,Customer,Rep_6
+Modest Solutions,Small,Rep_6,13000,Prospect,Rep_8
+Humble Tech,Small,Rep_6,18000,Customer,Rep_6
+Minor Systems,Small,Rep_6,16000,Customer,Rep_6
+Lesser Innovations,Small,Rep_6,14000,Customer,Rep_6
+Junior Tech,Small,Rep_6,20000,Prospect,Rep_4
+Startup Solutions,Small,Rep_6,15000,Customer,Rep_6
+Emerging Systems,Small,Rep_6,17000,Customer,Rep_6
+Nascent Tech,Small,Rep_6,12000,Customer,Rep_6
+Budding Innovations,Small,Rep_6,19000,Prospect,Rep_3
+Fledgling Corp,Small,Rep_6,16000,Customer,Rep_6
+Growing Solutions,Small,Rep_6,14000,Customer,Rep_6
+Developing Tech,Small,Rep_6,18000,Customer,Rep_6
+Advancing Systems,Small,Rep_6,15000,Prospect,Rep_4
+Progressing Innovations,Small,Rep_6,17000,Customer,Rep_6
+Rising Tech,Small,Rep_6,13000,Customer,Rep_6
+Ascending Solutions,Small,Rep_6,16000,Customer,Rep_6
+Climbing Systems,Small,Rep_6,19000,Customer,Rep_6
+Improving Tech,Small,Rep_6,14000,Prospect,Rep_8
+Enhancing Solutions,Small,Rep_6,15000,Customer,Rep_6
+Upgrading Corp,Small,Rep_6,18000,Customer,Rep_6
+Boosting Systems,Small,Rep_6,16000,Customer,Rep_6
+Elevating Tech,Small,Rep_6,12000,Customer,Rep_6
+Lifting Solutions,Small,Rep_6,17000,Prospect,Rep_6
+Raising Innovations,Small,Rep_6,14000,Customer,Rep_6
+Heightening Systems,Small,Rep_6,19000,Customer,Rep_6
+Amplifying Tech,Small,Rep_6,15000,Customer,Rep_6
+Magnifying Solutions,Small,Rep_6,16000,Customer,Rep_6
+Expanding Corp,Small,Rep_6,13000,Prospect,Rep_4
+Broadening Systems,Small,Rep_6,18000,Customer,Rep_6
+Widening Tech,Small,Rep_6,14000,Customer,Rep_6
+Stretching Solutions,Small,Rep_6,17000,Customer,Rep_6
+Extending Innovations,Small,Rep_6,15000,Customer,Rep_6
+Lengthening Corp,Small,Rep_6,12000,Prospect,Rep_6
+Prolonging Systems,Small,Rep_6,19000,Customer,Rep_6
+Perpetuating Tech,Small,Rep_6,16000,Customer,Rep_6
+MidRange Technologies,Medium,Rep_7,105000,Customer,Rep_7
+Moderate Systems,Medium,Rep_7,98000,Prospect,Rep_3
+Average Solutions,Medium,Rep_7,110000,Customer,Rep_7
+Balanced Tech,Medium,Rep_7,95000,Customer,Rep_7
+Central Innovations,Medium,Rep_7,102000,Customer,Rep_7
+Middle Corp,Medium,Rep_7,108000,Prospect,Rep_6
+Intermediate Systems,Medium,Rep_7,99000,Customer,Rep_7
+Standard Solutions,Medium,Rep_7,106000,Customer,Rep_7
+Regular Tech,Medium,Rep_7,97000,Customer,Rep_7
+Typical Innovations,Medium,Rep_7,103000,Prospect,Rep_3
+Normal Corp,Medium,Rep_7,109000,Customer,Rep_7
+Conventional Systems,Medium,Rep_7,96000,Customer,Rep_7
+Traditional Solutions,Medium,Rep_7,104000,Customer,Rep_7
+Ordinary Tech,Medium,Rep_7,100000,Prospect,Rep_8
+Common Innovations,Medium,Rep_7,107000,Customer,Rep_7
+Usual Systems,Medium,Rep_7,98000,Customer,Rep_7
+Customary Solutions,Medium,Rep_7,105000,Customer,Rep_7
+Routine Tech,Medium,Rep_7,101000,Prospect,Rep_6
+Established Corp,Medium,Rep_7,110000,Customer,Rep_7
+Settled Systems,Medium,Rep_7,94000,Customer,Rep_7
+Fixed Solutions,Medium,Rep_7,102000,Customer,Rep_7
+Stable Tech,Medium,Rep_7,108000,Customer,Rep_7
+Steady Innovations,Medium,Rep_7,96000,Prospect,Rep_4
+Constant Corp,Medium,Rep_7,104000,Customer,Rep_7
+Consistent Systems,Medium,Rep_7,99000,Customer,Rep_7
+Reliable Solutions,Medium,Rep_7,106000,Customer,Rep_7
+Dependable Tech,Medium,Rep_7,97000,Customer,Rep_7
+Trustworthy Innovations,Medium,Rep_7,103000,Prospect,Rep_4
+Faithful Corp,Medium,Rep_7,109000,Customer,Rep_7
+Loyal Systems,Medium,Rep_7,95000,Customer,Rep_7
+Budget Tech Solutions,Small,Rep_8,11000,Customer,Rep_8
+Economy Systems,Small,Rep_8,10000,Prospect,Rep_6
+Discount Innovations,Small,Rep_8,13000,Customer,Rep_8
+Thrift Tech Corp,Small,Rep_8,12000,Customer,Rep_8
+Value Solutions Ltd,Small,Rep_8,14000,Customer,Rep_8
+Bargain Systems,Small,Rep_8,10000,Prospect,Rep_8
+Affordable Tech,Small,Rep_8,15000,Customer,Rep_8
+Economical Solutions,Small,Rep_8,11000,Customer,Rep_8
+Frugal Innovations,Small,Rep_8,12000,Customer,Rep_8
+Prudent Systems,Small,Rep_8,13000,Prospect,Rep_3
+Sensible Tech,Small,Rep_8,14000,Customer,Rep_8
+Practical Solutions,Small,Rep_8,10000,Customer,Rep_8
+Reasonable Corp,Small,Rep_8,15000,Customer,Rep_8
+Rational Systems,Small,Rep_8,11000,Prospect,Rep_4
+Logical Tech,Small,Rep_8,12000,Customer,Rep_8
+Sound Solutions,Small,Rep_8,13000,Customer,Rep_8
+Smart Innovations,Small,Rep_8,14000,Customer,Rep_8
+Wise Systems,Small,Rep_8,10000,Prospect,Rep_3
+Clever Tech,Small,Rep_8,15000,Customer,Rep_8
+Bright Solutions,Small,Rep_8,11000,Customer,Rep_8
+Sharp Corp,Small,Rep_8,12000,Customer,Rep_8
+Keen Systems,Small,Rep_8,13000,Customer,Rep_8
+Alert Tech,Small,Rep_8,14000,Prospect,Rep_6
+Aware Solutions,Small,Rep_8,10000,Customer,Rep_8
+Conscious Innovations,Small,Rep_8,15000,Customer,Rep_8
