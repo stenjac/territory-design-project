@@ -605,17 +605,54 @@ elif page == "Geographic Analysis":
     # Detailed geographic metrics
     st.subheader("Detailed Geographic Metrics")
 
-    geo_comparison = pd.DataFrame({
-        'Rep': current_metrics['Rep'],
-        'Current Travel (mi/yr)': current_metrics['Annual Travel (mi)'].apply(lambda x: f"{x:,.0f}"),
-        'Proposed Travel (mi/yr)': proposed_metrics.set_index('Rep').loc[current_metrics['Rep'], 'Annual Travel (mi)'].apply(lambda x: f"{x:,.0f}").values,
-        'Savings (mi/yr)': (current_metrics['Annual Travel (mi)'].values - proposed_metrics.set_index('Rep').loc[current_metrics['Rep'], 'Annual Travel (mi)'].values).astype(int),
-        'Current Region': current_metrics['Primary Region'] if 'Primary Region' in current_metrics.columns else 'N/A',
-        'Proposed Region': proposed_metrics.set_index('Rep').loc[current_metrics['Rep'], 'Primary Region'].values if 'Primary Region' in proposed_metrics.columns else 'N/A',
-        'Region Focus': proposed_metrics.set_index('Rep').loc[current_metrics['Rep'], 'Region Concentration %'].apply(lambda x: f"{x:.0f}%").values if 'Region Concentration %' in proposed_metrics.columns else 'N/A'
-    })
+    # Build comparison safely
+    geo_data = {
+        'Rep': current_metrics['Rep'].tolist(),
+        'Current Travel (mi/yr)': current_metrics['Annual Travel (mi)'].apply(lambda x: f"{x:,.0f}").tolist()
+    }
 
-    geo_comparison['Savings (mi/yr)'] = geo_comparison['Savings (mi/yr)'].apply(lambda x: f"{x:,}")
+    # Add proposed travel safely
+    proposed_travel_list = []
+    savings_list = []
+    for rep in current_metrics['Rep']:
+        prop_row = proposed_metrics[proposed_metrics['Rep'] == rep]
+        if len(prop_row) > 0:
+            prop_travel = prop_row.iloc[0]['Annual Travel (mi)']
+            curr_travel = current_metrics[current_metrics['Rep'] == rep].iloc[0]['Annual Travel (mi)']
+            proposed_travel_list.append(f"{prop_travel:,.0f}")
+            savings_list.append(f"{int(curr_travel - prop_travel):,}")
+        else:
+            proposed_travel_list.append("N/A")
+            savings_list.append("N/A")
+
+    geo_data['Proposed Travel (mi/yr)'] = proposed_travel_list
+    geo_data['Savings (mi/yr)'] = savings_list
+
+    # Add regions if available
+    if 'Primary Region' in current_metrics.columns:
+        geo_data['Current Region'] = current_metrics['Primary Region'].tolist()
+    else:
+        geo_data['Current Region'] = ['N/A'] * len(current_metrics)
+
+    if 'Primary Region' in proposed_metrics.columns:
+        proposed_regions = []
+        for rep in current_metrics['Rep']:
+            prop_row = proposed_metrics[proposed_metrics['Rep'] == rep]
+            proposed_regions.append(prop_row.iloc[0]['Primary Region'] if len(prop_row) > 0 else 'N/A')
+        geo_data['Proposed Region'] = proposed_regions
+    else:
+        geo_data['Proposed Region'] = ['N/A'] * len(current_metrics)
+
+    if 'Region Concentration %' in proposed_metrics.columns:
+        region_focus = []
+        for rep in current_metrics['Rep']:
+            prop_row = proposed_metrics[proposed_metrics['Rep'] == rep]
+            region_focus.append(f"{prop_row.iloc[0]['Region Concentration %']:.0f}%" if len(prop_row) > 0 else 'N/A')
+        geo_data['Region Focus'] = region_focus
+    else:
+        geo_data['Region Focus'] = ['N/A'] * len(current_metrics)
+
+    geo_comparison = pd.DataFrame(geo_data)
 
     st.dataframe(geo_comparison, use_container_width=True, hide_index=True)
 
@@ -634,8 +671,13 @@ elif page == "Implementation":
     # Account changes summary
     if len(implementation_df) > 0:
         changes = len(implementation_df)
-        customer_changes = implementation_df[implementation_df['reason'].str.contains('customer', case=False, na=False)]
-        prospect_changes = implementation_df[~implementation_df['reason'].str.contains('customer', case=False, na=False)]
+        # Check if 'reason' column exists
+        if 'reason' in implementation_df.columns:
+            customer_changes = implementation_df[implementation_df['reason'].str.contains('customer', case=False, na=False)]
+            prospect_changes = implementation_df[~implementation_df['reason'].str.contains('customer', case=False, na=False)]
+        else:
+            customer_changes = pd.DataFrame()
+            prospect_changes = implementation_df
 
         col1, col2, col3, col4 = st.columns(4)
 
