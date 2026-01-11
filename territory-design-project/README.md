@@ -72,7 +72,7 @@ This system solves these issues through intelligent, constraint-based rebalancin
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/territory-design-project.git
+git clone https://github.com/stenjac/territory-design-project.git
 cd territory-design-project
 
 # Install dependencies
