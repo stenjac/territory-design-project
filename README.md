@@ -657,17 +657,4 @@ Built with:
 
 ---
 
-## Screenshots
-
-### Dashboard - Current State
-![Current State](docs/screenshots/current-state.png)
-
-### Dashboard - Proposed Changes
-![Proposed Changes](docs/screenshots/proposed-changes.png)
-
-### Dashboard - Implementation Plan
-![Implementation](docs/screenshots/implementation.png)
-
----
-
 *Last Updated: January 2026*
